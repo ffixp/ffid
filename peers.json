@@ -1,0 +1,28 @@
+[
+    {
+        "network": "ZZANET",
+        "legacy": false,
+        "disabled": false,
+        "owners": [
+            "Evan Pratten <ewpratten@gmail.com>"
+        ],
+        "ffid": "FF0001",
+        "prefixes": [
+            "44.31.62.0/24",
+            "2001:470:1d:217::/64",
+            "2001:470:b1c8::/48"
+        ]
+    },
+    {
+        "network": "Retrylife Experimental",
+        "legacy": true,
+        "disabled": true,
+        "owners": [
+            "Evan Pratten <ewpratten@gmail.com>"
+        ],
+        "ffid": "FF0002",
+        "prefixes": [
+            "44.63.7.32/29"
+        ]
+    }
+]

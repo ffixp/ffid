@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "vercel_python_api_template",
+    "name": "ffid",
     "builds": [
         {
             "src": "static/*",
