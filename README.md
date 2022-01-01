@@ -10,7 +10,7 @@ The goal of FFID is to provide an internal substitute to [Autonomous System Numb
 
 FFIDs themselves are simply 3-byte hex numbers (although we keep the first byte locked at `FF` because it looks cool). This is handy, because we can assign IPv6 addresses based off of peer's FFID. For example:
 
-```
+```text
 FF0123 -> fd00:0123::1
 ```
 
